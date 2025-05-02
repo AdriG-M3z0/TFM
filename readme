@@ -1,0 +1,2 @@
+Este repositorio contiene un notebook de análisis y modelado predictivo aplicado al mercado bursátil español, centrado en la estimación de retornos relativos de acciones del IBEX35 mediante técnicas de aprendizaje automático. El objetivo principal es identificar aquellas acciones que podrían superar un umbral de rendimiento relativo respecto al índice IBEX35, en un horizonte temporal definido.
+
